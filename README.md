@@ -42,4 +42,3 @@ Luego, en GitHub:
 4. Publica la versión.  
 
 Ahora, cualquiera puede descargar tu tema y usarlo en su instalación de WordPress. 
-```
